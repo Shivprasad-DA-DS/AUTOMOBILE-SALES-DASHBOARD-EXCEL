@@ -6,7 +6,7 @@ To analyze overall automobile sales performance
 ## DataSet Used
 -<a href="https://github.com/Shivprasad-DA-DS/AUTOMOBILE-SALES-DASHBOARD-EXCEL/blob/main/Modified_Sales_Data(AutoRecovered)%20(2).xlsm"> Automobile sales DataSet<a/>
 
--Dashboard Interaction <a href="https://github.com/sure-trust/SHIVPRASAD-DIGAMBAR-INGOLE-g9-ds/blob/main/Assignments/Screenshot%20(4).png">View Dashboard<a/>
+-Dashboard Interaction <a href="https://github.com/Shivprasad-DA-DS/AUTOMOBILE-SALES-DASHBOARD-EXCEL/blob/main/Screenshot%20(5).png">View Dashboard<a/>
 ## Questions
 - What is the total sales and total number of vehicles sold?
 - Which automobile category (Car/Bike) generates the highest sales?
